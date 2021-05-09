@@ -75,6 +75,7 @@ class App extends Component {
     }
   }
 
+  
   displayBox = (box) =>{
       this.setState({box:box});
   }
